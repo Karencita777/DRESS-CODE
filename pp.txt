@@ -1,1 +1,5 @@
 esto no es una prueba
+
+for (var i>0; i<i.length; i++){
+console.log[i];
+}
